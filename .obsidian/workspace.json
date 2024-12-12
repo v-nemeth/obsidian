@@ -11,10 +11,14 @@
             "id": "cc6ff2c60f930d5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2024-12-12.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-12-12"
             }
           }
         ]
@@ -160,6 +164,7 @@
   },
   "active": "cc6ff2c60f930d5d",
   "lastOpenFiles": [
+    "Notes/2024-12-12.md",
     "Notes/Install jetbrains toolbox.md",
     "Notes/Fresh start on Ubuntu.md",
     "Notes/Setting up postgres in ruby on rails on ubuntu 24.04.md",
