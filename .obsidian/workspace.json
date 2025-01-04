@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "df341710ba178606",
+        "id": "36e45fc30f7ef84f",
         "type": "tabs",
         "children": [
           {
-            "id": "cc6ff2c60f930d5d",
+            "id": "f70e72c751254162",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2024-12-12.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-12-12"
+              "title": "New tab"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Virtual Private Server Deployment Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Virtual Private Server Deployment Flow"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Virtual Private Server Deployment Flow.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Virtual Private Server Deployment Flow"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Virtual Private Server Deployment Flow.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Virtual Private Server Deployment Flow"
+              "title": "Outline"
             }
           }
         ]
@@ -162,19 +154,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc6ff2c60f930d5d",
+  "active": "f70e72c751254162",
   "lastOpenFiles": [
+    "L4. EUD In-Context - Cobots (2).pdf",
+    "L7. Consistency Assurance Across Software Artifacts.pdf",
+    "Notes/End User Development Exam.md",
+    "L10. Low-Code Platforms - PowerApps.pdf",
+    "L8. Low-Code Development and EUP Learning Barriers.pdf",
+    "L9. Low-Code Development and Generative AI.pdf",
+    "L6. EUD In-Context - EUP for Kids.pdf",
+    "L5. EUD In-Context - RobotTrainer.pdf",
+    "L3. EUP Models (2).pdf",
+    "Files/L2. EUD, EUP, and EUSE (2).pdf",
+    "L11. Low-Code Platforms - DCR Solutions.pdf",
+    "Templates/Exam Note.md",
+    "Templates/Developer Note.md",
     "Notes/2024-12-12.md",
     "Notes/Install jetbrains toolbox.md",
     "Notes/Fresh start on Ubuntu.md",
     "Notes/Setting up postgres in ruby on rails on ubuntu 24.04.md",
     "Notes/Install ruby on rails.md",
     "Notes/Virtual Private Server Deployment Flow.md",
-    "Templates/Developer Note.md",
     "Untitled.md",
-    "Welcome.md",
-    "Notes",
-    "Files",
-    "Templates"
+    "Welcome.md"
   ]
 }
