@@ -6,10 +6,10 @@ Time: 03-01-2025-09:00
 ## End-User Development
 ### Slides
 [[L2. EUD, EUP, and EUSE (2).pdf]]
-[[L3. EUP Models (2).pdf]]
-[[L4. EUD In-Context - Cobots (2).pdf]] (Guest lecture OBS (Annehide))
-[[L5. EUD In-Context - RobotTrainer.pdf]] (Guest lecture)
-[[L6. EUD In-Context - EUP for Kids.pdf]] (Guest lecture)
+[[L3. EUP Models (2) 1.pdf]]
+[[L4. EUD In-Context - Cobots (2) 1.pdf]] (Guest lecture OBS (Annehide))
+[[L5. EUD In-Context - RobotTrainer 1.pdf]] (Guest lecture)
+[[L6. EUD In-Context - EUP for Kids 1.pdf]] (Guest lecture)
 ### Lecture 2 - EUD, EUP and EUSE
 - End-User Development (EUD): Enabling non-professional developers to modify or create software artifacts.
 - Tailoring: Adjusting parameters or creating full-fledged programs within applications.
