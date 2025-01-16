@@ -179,6 +179,20 @@
   },
   "active": "82fde9d25d85858b",
   "lastOpenFiles": [
+    "Templates/Exam Note.md",
+    "Notes/Good GPT Prompts.md",
+    "Notes/End User Development Exam.md",
+    "Notes/Big Data Exam Flashcards.md",
+    "Files/L9. Low-Code Development and Generative AI.pdf",
+    "Files/L8. Low-Code Development and EUP Learning Barriers.pdf",
+    "Files/L7. Consistency Assurance Across Software Artifacts.pdf",
+    "Files/L6. EUD In-Context - EUP for Kids.pdf",
+    "Files/L6. EUD In-Context - EUP for Kids 1.pdf",
+    "Files/L5. EUD In-Context - RobotTrainer 1.pdf",
+    "Files/L4. EUD In-Context - Cobots (2) 1.pdf",
+    "Files/L3. EUP Models (2) 1.pdf",
+    "Files/L2. EUD, EUP, and EUSE (2).pdf",
+    "Files/L11. Low-Code Platforms - DCR Solutions.pdf",
     "Notes/Ruby on Rails 8.md",
     "Notes/Rails 8 - Default Authentication.md",
     "Notes/Install ruby on rails.md",
@@ -191,9 +205,6 @@
     "Notes/Setting up postgres in ruby on rails on ubuntu 24.04.md",
     "Notes/Virtual Private Server Deployment Flow.md",
     "Untitled.md",
-    "Welcome.md",
-    "Notes",
-    "Files",
-    "Templates"
+    "Welcome.md"
   ]
 }
