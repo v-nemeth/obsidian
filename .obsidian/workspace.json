@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Rails 8 - Default Authentication.md",
+                "file": "Notes/Multiple forms on same row in view using flex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rails 8 - Default Authentication"
+              "title": "Multiple forms on same row in view using flex"
             }
           }
         ],
@@ -179,8 +179,10 @@
   },
   "active": "82fde9d25d85858b",
   "lastOpenFiles": [
-    "Templates/Exam Note.md",
     "Notes/Good GPT Prompts.md",
+    "Notes/Multiple forms on same row in view using flex.md",
+    "Notes/Rails 8 - Default Authentication.md",
+    "Templates/Exam Note.md",
     "Notes/End User Development Exam.md",
     "Notes/Big Data Exam Flashcards.md",
     "Files/L9. Low-Code Development and Generative AI.pdf",
@@ -194,7 +196,6 @@
     "Files/L2. EUD, EUP, and EUSE (2).pdf",
     "Files/L11. Low-Code Platforms - DCR Solutions.pdf",
     "Notes/Ruby on Rails 8.md",
-    "Notes/Rails 8 - Default Authentication.md",
     "Notes/Install ruby on rails.md",
     "Templates/Rails 8 Note.md",
     "Templates/Developer Note.md",
