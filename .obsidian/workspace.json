@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c1c5dbc567f8314c",
+        "id": "9c5be80c3917b3d1",
         "type": "tabs",
         "children": [
           {
-            "id": "1e80c36a13539b6d",
+            "id": "55384c68f92e6dfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Ruby on Rails 8.md",
+                "file": "Notes/Restart all docker containers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ruby on Rails 8"
-            }
-          },
-          {
-            "id": "82fde9d25d85858b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Multiple forms on same row in view using flex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multiple forms on same row in view using flex"
+              "title": "Restart all docker containers"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -177,10 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82fde9d25d85858b",
+  "active": "55384c68f92e6dfc",
   "lastOpenFiles": [
-    "Notes/Good GPT Prompts.md",
+    "Notes/Restart all docker containers.md",
+    "Notes/Ruby on Rails 8.md",
     "Notes/Multiple forms on same row in view using flex.md",
+    "Notes/Good GPT Prompts.md",
     "Notes/Rails 8 - Default Authentication.md",
     "Templates/Exam Note.md",
     "Notes/End User Development Exam.md",
@@ -195,7 +183,6 @@
     "Files/L3. EUP Models (2) 1.pdf",
     "Files/L2. EUD, EUP, and EUSE (2).pdf",
     "Files/L11. Low-Code Platforms - DCR Solutions.pdf",
-    "Notes/Ruby on Rails 8.md",
     "Notes/Install ruby on rails.md",
     "Templates/Rails 8 Note.md",
     "Templates/Developer Note.md",
