@@ -41,3 +41,4 @@ Terminal=false  # Whether to run in terminal (true/false)
 Categories=     # Application categories (e.g., Development;Utility)
 
 ___
+https://specifications.freedesktop.org/desktop-entry-spec/latest/example.html
