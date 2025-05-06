@@ -107,7 +107,7 @@ Screen: 16'' (2560x1600) 240 GHz
 
 Weight: 1.9 kg
 
-Battery: 80 WH (90W)
+Battery: 80 Wh (90W)
 
 https://junocomputers.com/product/gemini-16-amd/
 
@@ -132,7 +132,23 @@ Price: $1,568.00 = 10,283.65 DKK
 
 https://system76.com/laptops/pang15/configure
 
+## Lenovo Thinkpad
+
+Processor: AMD Ryzen 7 8845HS, 5.1 GHz, 8 cores 16 threads
+
+GPU: AMD Radeon 780, 12 cores up to 2700 MHz
+
+Memory: 32 GB RAM
+
+Storage: 512 GB SSD
+
+Screen: 16'', 2560x1600, 60 Hz
+
+Weight: 1.81 kg
+
+Battery: 57 Wh (65W USBC)
 ## Purism Laptop?
 
 Not yet available, intel laptop out of stock. Still needs a mention
+
 
