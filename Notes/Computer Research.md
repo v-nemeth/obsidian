@@ -103,14 +103,15 @@ Memory: 32 GB RAM
 
 Storage: 512 GB SSD
 
-Screen: 16'' (2560x1600) 240 GHz
+Screen: 16'' (1920x1200) 240 GHz
 
 Weight: 1.9 kg
 
 Battery: 80 Wh (90W)
 
-https://junocomputers.com/product/gemini-16-amd/
+Price: £1,145.00 = 10,046.79 DKK
 
+https://junocomputers.com/product/gemini-16-amd/
 
 ## System76 Pangolin
 
@@ -132,7 +133,7 @@ Price: $1,568.00 = 10,283.65 DKK
 
 https://system76.com/laptops/pang15/configure
 
-## Lenovo Thinkpad
+## Lenovo Thinkpad E16 Gen 2
 
 Processor: AMD Ryzen 7 8845HS, 5.1 GHz, 8 cores 16 threads
 
@@ -147,6 +148,8 @@ Screen: 16'', 2560x1600, 60 Hz
 Weight: 1.81 kg
 
 Battery: 57 Wh (65W USBC)
+
+Price: 7.682,96 kr
 ## Purism Laptop?
 
 Not yet available, intel laptop out of stock. Still needs a mention
