@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Megadoc .NET.md",
+                "file": "Notes/Centic 07-05-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Megadoc .NET"
+              "title": "Centic 07-05-2025"
             }
           }
         ]
@@ -165,8 +165,20 @@
   },
   "active": "15723f8d91f89b12",
   "lastOpenFiles": [
-    "Notes/Multiple forms on same row in view using flex.md",
+    "Templates/Centic Template.md",
+    "Templates/Developer Note.md",
+    "Notes/Centic 07-05-2025.md",
+    "Notes/DKTV Flytning 24-04-2025.md",
+    "Centic 07/05/2025.md",
+    "Centic 07/05",
+    "Centic 07",
+    "Notes/Big Data Exam Flashcards.md",
+    "Notes/2024-12-12.md",
     "Notes/Megadoc .NET.md",
+    "DKTV Flytning 24/04/2025.md",
+    "DKTV Flytning 24/04",
+    "DKTV Flytning 24",
+    "Notes/Multiple forms on same row in view using flex.md",
     "Notes/Install ruby on rails.md",
     "Notes/Install .NET 9 + dotnet run commands.md",
     "Notes/Install jetbrains toolbox.md",
@@ -174,14 +186,11 @@
     "Notes/Linux Application Desktop Entry.md",
     "Templates/Video note.md",
     "Notes/Developer.md",
-    "Templates/Developer Note.md",
     "Notes/Rails 8 - Default Authentication.md",
     "Notes/Restart all docker containers.md",
     "Notes/Ruby on Rails 8.md",
     "Notes/Setting up postgres in ruby on rails on ubuntu 24.04.md",
     "Notes/Virtual Private Server Deployment Flow.md",
-    "Notes/2024-12-12.md",
-    "Notes/Big Data Exam Flashcards.md",
     "Notes/End User Development Exam.md",
     "Notes/Good GPT Prompts.md",
     "Notes/Fresh start on Ubuntu.md",
@@ -191,14 +200,6 @@
     "Files/L7. Consistency Assurance Across Software Artifacts.pdf",
     "Files/L6. EUD In-Context - EUP for Kids.pdf",
     "Files/L6. EUD In-Context - EUP for Kids 1.pdf",
-    "Files/L5. EUD In-Context - RobotTrainer 1.pdf",
-    "Files/L4. EUD In-Context - Cobots (2) 1.pdf",
-    "Files/L3. EUP Models (2) 1.pdf",
-    "Files/L2. EUD, EUP, and EUSE (2).pdf",
-    "Files/L11. Low-Code Platforms - DCR Solutions.pdf",
-    "Templates/Rails 8 Note.md",
-    "Notes/Rails 8.md",
-    "Untitled.md",
-    "Welcome.md"
+    "Files/L5. EUD In-Context - RobotTrainer 1.pdf"
   ]
 }
